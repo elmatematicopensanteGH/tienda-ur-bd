@@ -1,0 +1,151 @@
+nombre,descripcion,precio,stock,activo,categoria_id
+Audífonos Premium 1,Producto de la tienda UR referencia 1,35000,166,false,2
+Mouse Oficial 2,Producto de la tienda UR referencia 2,80000,54,false,7
+Agenda Clásico 3,Producto de la tienda UR referencia 3,12000,23,true,1
+Cargador Clásico 4,Producto de la tienda UR referencia 4,12000,161,true,1
+Cargador Vintage 5,Producto de la tienda UR referencia 5,3000,56,false,3
+Libreta Vintage 6,Producto de la tienda UR referencia 6,8000,138,true,5
+Carpeta Premium 7,Producto de la tienda UR referencia 7,5000,148,true,4
+Mouse Clásico 8,Producto de la tienda UR referencia 8,80000,182,false,1
+Snack Edición UR 9,Producto de la tienda UR referencia 9,50000,174,true,6
+Sudadera Deportivo 10,Producto de la tienda UR referencia 10,25000,76,true,3
+Gorra Clásico 11,Producto de la tienda UR referencia 11,120000,76,true,6
+Sudadera Compacto 12,Producto de la tienda UR referencia 12,120000,18,true,7
+Llavero Ecológico 13,Producto de la tienda UR referencia 13,8000,125,true,2
+Carpeta Ecológico 14,Producto de la tienda UR referencia 14,25000,177,true,8
+Cargador Deportivo 15,Producto de la tienda UR referencia 15,5000,23,true,8
+Cuaderno Oficial 16,Producto de la tienda UR referencia 16,18000,165,true,8
+Libreta Vintage 17,Producto de la tienda UR referencia 17,25000,5,true,6
+Llavero Clásico 18,Producto de la tienda UR referencia 18,50000,15,true,5
+Mug Edición UR 19,Producto de la tienda UR referencia 19,35000,100,true,8
+Cuaderno Premium 20,Producto de la tienda UR referencia 20,50000,102,true,3
+Agenda Compacto 21,Producto de la tienda UR referencia 21,35000,91,true,7
+Gorra Premium 22,Producto de la tienda UR referencia 22,5000,45,true,4
+Camiseta Deportivo 23,Producto de la tienda UR referencia 23,120000,46,true,1
+Mug Vintage 24,Producto de la tienda UR referencia 24,80000,94,true,6
+Mug Oficial 25,Producto de la tienda UR referencia 25,50000,199,true,7
+Botella Vintage 26,Producto de la tienda UR referencia 26,35000,26,true,7
+Termo Edición UR 27,Producto de la tienda UR referencia 27,5000,53,true,2
+Audífonos Oficial 28,Producto de la tienda UR referencia 28,5000,0,true,2
+Mouse Oficial 29,Producto de la tienda UR referencia 29,5000,53,true,3
+Sticker Ecológico 30,Producto de la tienda UR referencia 30,120000,93,true,2
+Bolígrafo Deportivo 31,Producto de la tienda UR referencia 31,50000,123,true,3
+Esfero Ecológico 32,Producto de la tienda UR referencia 32,18000,122,true,3
+Poster Oficial 33,Producto de la tienda UR referencia 33,12000,135,true,1
+Poster Compacto 34,Producto de la tienda UR referencia 34,5000,178,true,6
+Llavero Ecológico 35,Producto de la tienda UR referencia 35,12000,136,true,6
+Gorra Edición UR 36,Producto de la tienda UR referencia 36,12000,102,true,4
+Morral Deportivo 37,Producto de la tienda UR referencia 37,25000,187,false,1
+Sticker Deportivo 38,Producto de la tienda UR referencia 38,18000,49,true,6
+Sudadera Ecológico 39,Producto de la tienda UR referencia 39,25000,20,true,4
+Bolígrafo Edición UR 40,Producto de la tienda UR referencia 40,25000,52,true,1
+Bolígrafo Ecológico 41,Producto de la tienda UR referencia 41,5000,169,true,7
+Morral Deportivo 42,Producto de la tienda UR referencia 42,8000,111,true,6
+Cuaderno Vintage 43,Producto de la tienda UR referencia 43,50000,102,true,2
+Llavero Premium 44,Producto de la tienda UR referencia 44,8000,7,true,8
+Mug Deportivo 45,Producto de la tienda UR referencia 45,25000,39,true,3
+Camiseta Oficial 46,Producto de la tienda UR referencia 46,5000,134,true,3
+Agenda Edición UR 47,Producto de la tienda UR referencia 47,12000,7,true,5
+Poster Edición UR 48,Producto de la tienda UR referencia 48,120000,83,true,7
+Mug Oficial 49,Producto de la tienda UR referencia 49,25000,117,true,7
+Poster Premium 50,Producto de la tienda UR referencia 50,80000,38,true,1
+Sudadera Premium 51,Producto de la tienda UR referencia 51,120000,1,true,3
+Llavero Premium 52,Producto de la tienda UR referencia 52,50000,158,true,1
+Audífonos Deportivo 53,Producto de la tienda UR referencia 53,5000,143,false,4
+Sticker Oficial 54,Producto de la tienda UR referencia 54,5000,129,true,1
+Cuaderno Deportivo 55,Producto de la tienda UR referencia 55,25000,156,true,4
+Sticker Deportivo 56,Producto de la tienda UR referencia 56,80000,136,true,4
+Poster Compacto 57,Producto de la tienda UR referencia 57,80000,51,true,3
+Agenda Clásico 58,Producto de la tienda UR referencia 58,35000,113,true,4
+Agenda Clásico 59,Producto de la tienda UR referencia 59,12000,171,true,2
+Mug Ecológico 60,Producto de la tienda UR referencia 60,8000,64,true,8
+Gorra Clásico 61,Producto de la tienda UR referencia 61,35000,124,true,4
+Llavero Vintage 62,Producto de la tienda UR referencia 62,80000,103,true,4
+Mouse Ecológico 63,Producto de la tienda UR referencia 63,5000,184,true,6
+Carpeta Deportivo 64,Producto de la tienda UR referencia 64,50000,180,false,6
+Poster Compacto 65,Producto de la tienda UR referencia 65,80000,16,true,4
+Esfero Clásico 66,Producto de la tienda UR referencia 66,18000,69,false,3
+Sticker Premium 67,Producto de la tienda UR referencia 67,35000,173,true,5
+Botella Premium 68,Producto de la tienda UR referencia 68,80000,131,true,6
+Cuaderno Compacto 69,Producto de la tienda UR referencia 69,3000,176,true,2
+Sticker Oficial 70,Producto de la tienda UR referencia 70,5000,66,false,4
+Cuaderno Compacto 71,Producto de la tienda UR referencia 71,5000,116,false,7
+Sticker Premium 72,Producto de la tienda UR referencia 72,3000,134,true,2
+Llavero Compacto 73,Producto de la tienda UR referencia 73,3000,46,true,5
+Libreta Edición UR 74,Producto de la tienda UR referencia 74,18000,114,true,3
+Sticker Ecológico 75,Producto de la tienda UR referencia 75,3000,64,false,1
+Poster Edición UR 76,Producto de la tienda UR referencia 76,80000,121,true,8
+Esfero Vintage 77,Producto de la tienda UR referencia 77,50000,139,true,7
+Poster Compacto 78,Producto de la tienda UR referencia 78,12000,58,true,3
+Botella Ecológico 79,Producto de la tienda UR referencia 79,3000,33,false,5
+Agenda Premium 80,Producto de la tienda UR referencia 80,3000,21,true,7
+Poster Compacto 81,Producto de la tienda UR referencia 81,120000,62,true,1
+Sudadera Premium 82,Producto de la tienda UR referencia 82,8000,68,true,5
+Mouse Ecológico 83,Producto de la tienda UR referencia 83,80000,82,true,5
+Morral Ecológico 84,Producto de la tienda UR referencia 84,8000,0,true,2
+Bolígrafo Compacto 85,Producto de la tienda UR referencia 85,80000,167,true,1
+Cuaderno Compacto 86,Producto de la tienda UR referencia 86,5000,36,true,1
+Botella Oficial 87,Producto de la tienda UR referencia 87,18000,77,true,2
+Cargador Premium 88,Producto de la tienda UR referencia 88,120000,99,true,8
+Mug Compacto 89,Producto de la tienda UR referencia 89,120000,164,true,7
+Poster Premium 90,Producto de la tienda UR referencia 90,80000,192,true,1
+Cargador Edición UR 91,Producto de la tienda UR referencia 91,5000,7,false,6
+Esfero Vintage 92,Producto de la tienda UR referencia 92,50000,142,false,1
+Carpeta Edición UR 93,Producto de la tienda UR referencia 93,50000,67,false,2
+Poster Clásico 94,Producto de la tienda UR referencia 94,80000,16,true,8
+Sticker Clásico 95,Producto de la tienda UR referencia 95,18000,60,true,4
+Gorra Deportivo 96,Producto de la tienda UR referencia 96,50000,97,false,5
+Termo Edición UR 97,Producto de la tienda UR referencia 97,5000,153,true,5
+Libreta Premium 98,Producto de la tienda UR referencia 98,3000,123,false,5
+Esfero Edición UR 99,Producto de la tienda UR referencia 99,50000,74,true,5
+Sudadera Deportivo 100,Producto de la tienda UR referencia 100,50000,196,true,4
+Libreta Clásico 101,Producto de la tienda UR referencia 101,50000,4,true,2
+Poster Deportivo 102,Producto de la tienda UR referencia 102,18000,99,true,4
+Cuaderno Clásico 103,Producto de la tienda UR referencia 103,8000,191,true,6
+Mug Compacto 104,Producto de la tienda UR referencia 104,5000,180,true,8
+Bolígrafo Vintage 105,Producto de la tienda UR referencia 105,3000,40,false,8
+Sudadera Vintage 106,Producto de la tienda UR referencia 106,18000,186,true,6
+Botella Ecológico 107,Producto de la tienda UR referencia 107,5000,84,false,6
+Botella Clásico 108,Producto de la tienda UR referencia 108,12000,182,false,5
+Sticker Ecológico 109,Producto de la tienda UR referencia 109,5000,100,true,2
+Mouse Vintage 110,Producto de la tienda UR referencia 110,18000,12,true,1
+Libreta Premium 111,Producto de la tienda UR referencia 111,12000,68,true,6
+Morral Ecológico 112,Producto de la tienda UR referencia 112,35000,7,true,7
+Carpeta Edición UR 113,Producto de la tienda UR referencia 113,5000,12,true,7
+Sudadera Premium 114,Producto de la tienda UR referencia 114,18000,124,false,3
+Llavero Deportivo 115,Producto de la tienda UR referencia 115,35000,87,true,5
+Sticker Vintage 116,Producto de la tienda UR referencia 116,12000,77,true,7
+Esfero Premium 117,Producto de la tienda UR referencia 117,8000,19,true,8
+Carpeta Edición UR 118,Producto de la tienda UR referencia 118,50000,85,true,8
+Agenda Premium 119,Producto de la tienda UR referencia 119,80000,49,true,3
+Audífonos Clásico 120,Producto de la tienda UR referencia 120,25000,61,true,4
+Camiseta Vintage 121,Producto de la tienda UR referencia 121,35000,105,true,4
+Botella Compacto 122,Producto de la tienda UR referencia 122,25000,192,false,5
+Cargador Ecológico 123,Producto de la tienda UR referencia 123,8000,175,true,4
+Cuaderno Compacto 124,Producto de la tienda UR referencia 124,12000,98,true,8
+Agenda Compacto 125,Producto de la tienda UR referencia 125,3000,32,false,8
+Cargador Deportivo 126,Producto de la tienda UR referencia 126,3000,18,true,8
+Sudadera Edición UR 127,Producto de la tienda UR referencia 127,5000,57,true,2
+Sudadera Clásico 128,Producto de la tienda UR referencia 128,80000,198,false,3
+Gorra Oficial 129,Producto de la tienda UR referencia 129,18000,32,true,7
+Esfero Clásico 130,Producto de la tienda UR referencia 130,5000,76,true,4
+Botella Compacto 131,Producto de la tienda UR referencia 131,12000,153,false,5
+Sudadera Compacto 132,Producto de la tienda UR referencia 132,25000,165,true,4
+Bolígrafo Edición UR 133,Producto de la tienda UR referencia 133,80000,63,false,7
+Libreta Oficial 134,Producto de la tienda UR referencia 134,3000,49,true,7
+Cuaderno Compacto 135,Producto de la tienda UR referencia 135,12000,170,true,6
+Gorra Deportivo 136,Producto de la tienda UR referencia 136,3000,178,true,7
+Mouse Vintage 137,Producto de la tienda UR referencia 137,12000,1,true,2
+Morral Deportivo 138,Producto de la tienda UR referencia 138,12000,79,true,4
+Gorra Deportivo 139,Producto de la tienda UR referencia 139,12000,67,true,5
+Esfero Deportivo 140,Producto de la tienda UR referencia 140,120000,47,true,8
+Agenda Oficial 141,Producto de la tienda UR referencia 141,120000,37,true,1
+Morral Oficial 142,Producto de la tienda UR referencia 142,120000,36,true,1
+Llavero Vintage 143,Producto de la tienda UR referencia 143,50000,182,true,2
+Cuaderno Premium 144,Producto de la tienda UR referencia 144,25000,48,true,8
+Termo Compacto 145,Producto de la tienda UR referencia 145,35000,95,true,8
+Llavero Clásico 146,Producto de la tienda UR referencia 146,3000,20,true,6
+Agenda Clásico 147,Producto de la tienda UR referencia 147,80000,194,true,6
+Libreta Vintage 148,Producto de la tienda UR referencia 148,5000,12,true,4
+Mouse Deportivo 149,Producto de la tienda UR referencia 149,12000,82,true,8
+Camiseta Vintage 150,Producto de la tienda UR referencia 150,12000,160,true,1
